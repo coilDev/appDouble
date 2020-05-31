@@ -2,7 +2,7 @@
   "name": "app3105",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://sergDevBut.github.io/sucksV2/",
+  "homepage": "https://coilDev.github.io/appDouble/",
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
