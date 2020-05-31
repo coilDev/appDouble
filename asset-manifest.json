@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/appDouble/static/css/main.103fd6a1.chunk.css",
+    "main.js": "/appDouble/static/js/main.838ef0c3.chunk.js",
+    "main.js.map": "/appDouble/static/js/main.838ef0c3.chunk.js.map",
+    "runtime-main.js": "/appDouble/static/js/runtime-main.daa1a7d2.js",
+    "runtime-main.js.map": "/appDouble/static/js/runtime-main.daa1a7d2.js.map",
+    "static/css/2.86df01db.chunk.css": "/appDouble/static/css/2.86df01db.chunk.css",
+    "static/js/2.0c51c895.chunk.js": "/appDouble/static/js/2.0c51c895.chunk.js",
+    "static/js/2.0c51c895.chunk.js.map": "/appDouble/static/js/2.0c51c895.chunk.js.map",
+    "index.html": "/appDouble/index.html",
+    "precache-manifest.2e66f6a71b03d5852f5dd084a6959014.js": "/appDouble/precache-manifest.2e66f6a71b03d5852f5dd084a6959014.js",
+    "service-worker.js": "/appDouble/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/appDouble/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.103fd6a1.chunk.css.map": "/appDouble/static/css/main.103fd6a1.chunk.css.map",
+    "static/js/2.0c51c895.chunk.js.LICENSE.txt": "/appDouble/static/js/2.0c51c895.chunk.js.LICENSE.txt",
+    "static/media/hGFcfhVyfbs.png": "/appDouble/static/media/hGFcfhVyfbs.36ec0639.png",
+    "static/media/persik.png": "/appDouble/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daa1a7d2.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.0c51c895.chunk.js",
+    "static/css/main.103fd6a1.chunk.css",
+    "static/js/main.838ef0c3.chunk.js"
+  ]
+}
